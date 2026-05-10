@@ -37,6 +37,8 @@ I am an Information Technology Engineering student at the Universidad Técnica N
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-002E5D?style=flat&logo=tenable&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat&logo=wazuh&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF4F00?style=flat)
 
 ---
